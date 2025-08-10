@@ -15,7 +15,7 @@ It then converts the AI's reply back to speech in real-time.
 ![Output Screenshot](output_screenshot.png)
 
 ### Demo Video
-[Output Demo](output_demo.mp4)
+[Output Demo](https://drive.google.com/file/d/13TBD7ANgwqdmCsbEW-DAxc9aNZOQ4r5c/view?usp=sharing)
 
 ## Requirements
 - Python 3.10+
